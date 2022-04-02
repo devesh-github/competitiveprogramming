@@ -6,15 +6,6 @@ import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-
-import javax.activation.DataHandler;
-import javax.mail.util.ByteArrayDataSource;
-
-import org.apache.commons.codec.binary.Base64;
-
-import com.lowagie.text.pdf.PdfReader;
 
 public class CreateBlobData {
 

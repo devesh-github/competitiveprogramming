@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/../DSA-MadeEasyInJava/DSA-MadeEasyInJava.iml" filepath="$PROJECT_DIR$/../DSA-MadeEasyInJava/DSA-MadeEasyInJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dcp.iml" filepath="$PROJECT_DIR$/dcp.iml" />
-    </modules>
-  </component>
-</project>

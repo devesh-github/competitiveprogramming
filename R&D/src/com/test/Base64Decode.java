@@ -1,6 +1,7 @@
 package com.test;
 
-import org.apache.commons.codec.binary.Base64;
+//import org.apache.commons.codec.binary.Base64;
+import org.apache.commons.net.util.Base64;
 
 import java.util.Arrays;
 
